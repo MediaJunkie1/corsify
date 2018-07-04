@@ -1,7 +1,0 @@
-{
-  "name": "Corsift.js test",
-  "description": "A barebones Corsift",
-  "repository": "MediaJunkie1/corsify",
-  "logo": "https://node-js-sample.herokuapp.com/node.png",
-  "keywords": ["node", "express", "static"]
-}
